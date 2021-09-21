@@ -1,0 +1,21 @@
+{
+  "name": "discord-captcha",
+  "version": "1.0.0",
+  "description": "Discord Guilds New Member Captcha (Verification) System",
+  "main": "bot.js",
+  "author": "Berk ALTIOK",
+  "license": "MIT",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berkaltiok/discord-captcha.git"
+  },
+  "homepage": "https://github.com/berkaltiok/discord-captcha#readme",
+  "dependencies": {
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "discord-api-types": "^0.23.1",
+    "discord.js": "^13.1.0"
+  }
+}
